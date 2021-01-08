@@ -24,5 +24,13 @@
          "files": [
             "src/bootstrap.php"
         ]
+    },
+    "extra": {
+        "dcat-admin": "DcatAdmin\\Ueditor\\UeditorServiceProvider",
+        "laravel": {
+            "providers": [
+                "DcatAdmin\\Ueditor\\UeditorServiceProvider"
+            ]
+        }
     }
 }

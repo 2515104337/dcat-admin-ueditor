@@ -1,5 +1,5 @@
 {
-    "name": "dcat-admin-extension/ueditor",
+    "name": "dcat-admin-extensions/ueditor",
     "description": "百度在线编辑器",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
